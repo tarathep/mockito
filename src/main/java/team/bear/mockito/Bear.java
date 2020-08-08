@@ -1,6 +1,5 @@
 package team.bear.mockito;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Data
